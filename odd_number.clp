@@ -1,4 +1,3 @@
-
 ; Rule: Odd_number
 ; Purpose: Checks if a given number is odd and prints a message
 
@@ -12,8 +11,3 @@
    =>
    ; Print message indicating the number is odd
    (printout t "The number is odd." crlf))
-
-
-
-
-
